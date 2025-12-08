@@ -1,0 +1,13 @@
+# Python venv
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database (之後再決定要不要版本控制，目前先忽略)
+*.db
+
+# 其他可能的暫存
+instance/
